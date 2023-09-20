@@ -57,4 +57,4 @@ build-iPhoneSimulator/
 
 
 # Opal dev build output
-main.js
+dist/index.js
