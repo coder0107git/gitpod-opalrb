@@ -4,7 +4,7 @@ A very fast opal setup - includes opal browser - uses guard to automatically com
 
 Open the project in a webserver:
 
-    python SimpleHTTPServer 3000
+    python3 -m http.server 3000
 
 
 then open a browser at:
